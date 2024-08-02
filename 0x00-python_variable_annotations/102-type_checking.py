@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Use mypy to validate the following 
-piece of code and apply any necessary 
-changes
+Type checking
+Use mypy to validate code piece
+apply any necessary changes
 """
 from typing import Tuple, List
 
